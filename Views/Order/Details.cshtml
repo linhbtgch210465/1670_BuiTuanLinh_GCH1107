@@ -1,0 +1,29 @@
+@model BookStore.Models.Order
+
+@{
+    ViewData["Title"] = "Order Details";
+    Layout = "_LayoutAdmin";
+}
+
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Book Title</th>
+        <th>Quantity</th>
+        <th>Price</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.OrderItems)
+    {
+        <tr>    
+            <td>@item.Book?.Title</td>
+            <td>@item.Quantity</td>
+            <td>@item.Price.ToString("c")</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<p>Total: @Model.OrderTotal.ToString("c")</p>

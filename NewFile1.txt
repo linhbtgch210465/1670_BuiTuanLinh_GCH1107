@@ -1,0 +1,136 @@
+  
+  search in homecontroller
+   public IActionResult Index(string searchString)
+        {
+            var products = from p in _context.Product
+                select p;
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                products = products.Where(p => p.Title.Contains(searchString));
+            }
+
+            return View(products.ToList());
+        }
+        
+        search in home index
+        h2>Products</h2>
+        
+        <form asp-controller="Home" asp-action="Index" method="get">
+            <p>
+                <input type="text" name="searchString" placeholder="Search by title">
+                <input type="submit" value="Search">
+            </p>
+        </form>
+        
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <a href="@Url.Action("Details", "Home", new { id = item.Id })">
+                            <img src="@item.ImageUrl" class="card-img-top card-img-custom">
+                        </a>
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <p class="card-text">@item.Price.ToString("c")</p>
+                            <a href="@Url.Action("Details", "Home", new { id = item.Id })" class="btn btn-primary btn-details">Details</a>
+                            <a asp-controller="Cart" asp-action="AddToCart" asp-route-id="@item.Id" class="btn btn-primary float-right store-btn"><i class="fa-solid fa-cart-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        
+        
+        
+        
+        
+        layoutadmin
+        
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+            <title>@ViewData["Title"] - BookStore</title>
+            <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+            <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+            <link rel="stylesheet" href="~/BookStore.styles.css" asp-append-version="true"/>
+            <script src="https://kit.fontawesome.com/ed79e5bcdc.js" crossorigin="anonymous"></script>
+            <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        
+           <style>
+                .navbar-nav .nav-item {
+                    margin-right: 10px; 
+                    position: relative;
+                }
+        
+                .navbar-nav .nav-item:hover::after {
+                    content: "";
+                    position: absolute;
+                    width: 100%;
+                    height: 2px;
+                    background-color: #007bff; /* Màu sắc khi hover */
+                    bottom: -2px;
+                    left: 0;
+                }
+        
+                .navbar-nav .nav-link i {
+                    margin-right: 5px; /* Khoảng cách giữa icon và văn bản */
+                }
+        
+                .navbar-nav .nav-link:hover i {
+                    color: #007bff; /* Màu sắc khi hover */
+                }
+            </style>
+        </head>
+        <body>
+        <header>
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+                <div class="container-fluid">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">BookStore</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item">
+                                <a  asp-area="" asp-controller="Home" asp-action="Index" class="nav-link"><i class="fa-solid fa-house"></i>Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a asp-area="" asp-controller="Cart" asp-action="Index" class="nav-link"> <i class="fa-solid fa-cart-shopping"></i> Cart</a>
+                            </li>
+                        </ul>
+                        <div class="ml-auto"> 
+                            <ul class="navbar-nav flex-grow-1">
+                                <li class="nav-item">
+                                    <a asp-area="" asp-controller="Admin" asp-action="Index" class="nav-link"> <i class="fa-solid fa-user-cog"></i> Admin</a>
+                                </li>
+                            </ul>
+                            <div class="d-flex align-items-center"> 
+                                <partial name="_LoginPartial"/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+        
+        <footer class="border-top footer text-muted">
+            <div class="container">
+                &copy; 2023 - BookStore - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>
+        </footer>
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+        </body>
+        </html>

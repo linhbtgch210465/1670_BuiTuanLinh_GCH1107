@@ -1,0 +1,41 @@
+
+
+@model List<Microsoft.AspNetCore.Identity.IdentityUser>
+@{
+    ViewData["Title"] = "Create";
+    Layout = "_LayoutAdmin";
+
+}
+<h1>All Users</h1>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Username</th>
+        <th>Email</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.UserName</td>
+            <td>@user.Email</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        // Tự động làm mới danh sách mỗi 60 giây (đơn vị là milliseconds)
+        setInterval(function () {
+            // Gửi yêu cầu AJAX để cập nhật danh sách người dùng
+            $.get('/Admin/Index', function (data) {
+                // Cập nhật nội dung của tbody
+                $('tbody').html(data);
+            });
+        }, 60000); // 60 giây
+    });
+</script>

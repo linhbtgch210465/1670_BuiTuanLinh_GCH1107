@@ -1,0 +1,1465 @@
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/appsettings.Development.json
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/appsettings.json
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/BookStore.staticwebassets.runtime.json
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/app.db
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/BookStore
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/BookStore.deps.json
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/BookStore.runtimeconfig.json
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/BookStore.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/BookStore.pdb
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Humanizer.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.CodeDom.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.csproj.AssemblyReference.cache
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.AssemblyInfoInputs.cache
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.AssemblyInfo.cs
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.csproj.CoreCompileInputs.cache
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.MvcApplicationPartsAssemblyInfo.cs
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.RazorAssemblyInfo.cache
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.RazorAssemblyInfo.cs
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/staticwebassets/msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/staticwebassets/msbuild.build.BookStore.props
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookStore.props
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookStore.props
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/staticwebassets.build.json
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/staticwebassets.development.json
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/scopedcss/bundle/BookStore.styles.css
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/scopedcss/projectbundle/BookStore.bundle.scp.css
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.csproj.CopyComplete
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/refint/BookStore.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.pdb
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/BookStore.genruntimeconfig.cache
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/ref/BookStore.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Azure.Core.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Azure.Identity.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/NuGet.Common.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/af/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ar/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/az/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/bg/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/cs/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/da/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/de/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/el/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/es/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fa/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fr/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/he/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/hr/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/hu/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/hy/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/id/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/is/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/it/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ja/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ku/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/lv/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/mt/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/nb/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/nl/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pl/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pt/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ro/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ru/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/sk/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/sl/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/sr/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/sv/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/tr/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/uk/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/vi/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/vutandung/Documents/1670-Application Development/BookStore/obj/Debug/net7.0/scopedcss/Views/Shared/_LayoutAdmin.cshtml.rz.scp.css
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/appsettings.Development.json
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/appsettings.json
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/app.db
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.staticwebassets.runtime.json
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.deps.json
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.runtimeconfig.json
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.pdb
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Azure.Core.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Azure.Identity.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Humanizer.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Common.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.CodeDom.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/af/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ar/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/az/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/bg/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/da/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/el/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fa/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/he/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/hr/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/hu/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/hy/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/id/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/is/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ku/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/lv/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/mt/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/nb/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/nl/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ro/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sk/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sl/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sr/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sv/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/uk/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/vi/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.csproj.AssemblyReference.cache
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.AssemblyInfoInputs.cache
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.AssemblyInfo.cs
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.csproj.CoreCompileInputs.cache
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.MvcApplicationPartsAssemblyInfo.cs
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.RazorAssemblyInfo.cache
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.RazorAssemblyInfo.cs
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.build.BookStore.props
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookStore.props
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookStore.props
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets.build.json
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets.development.json
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/Views/Shared/_LayoutAdmin.cshtml.rz.scp.css
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/bundle/BookStore.styles.css
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/projectbundle/BookStore.bundle.scp.css
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.csproj.CopyComplete
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/refint/BookStore.dll
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.pdb
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.genruntimeconfig.cache
+/Users/vutandung/Documents/1670-Application Development/1670-GCH1103-VuTanDung/obj/Debug/net7.0/ref/BookStore.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/appsettings.json
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/app.db
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.staticwebassets.runtime.json
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.exe
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.deps.json
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.runtimeconfig.json
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.pdb
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Humanizer.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Build.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Common.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Configuration.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Frameworks.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.LibraryModel.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Packaging.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.ProjectModel.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Protocol.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Versioning.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.Convention.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.Hosting.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.Runtime.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.TypedParts.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/af/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ar/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/az/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/bg/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/da/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/el/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fa/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/he/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/hr/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/hu/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/hy/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/id/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/is/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ku/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/lv/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/mt/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/nb/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/nl/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ro/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sk/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sl/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sr/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sv/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/uk/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/vi/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.csproj.AssemblyReference.cache
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.AssemblyInfoInputs.cache
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.AssemblyInfo.cs
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.csproj.CoreCompileInputs.cache
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.RazorAssemblyInfo.cache
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.RazorAssemblyInfo.cs
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.build.BookStore.props
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookStore.props
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookStore.props
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/Views/Shared/_LayoutAdmin.cshtml.rz.scp.css
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/bundle/BookStore.styles.css
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/projectbundle/BookStore.bundle.scp.css
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.csproj.CopyComplete
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/refint/BookStore.dll
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.pdb
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.genruntimeconfig.cache
+C:/Users/Dang Nam Hung/Downloads/1670-GCH1103-VuTanDung/obj/Debug/net7.0/ref/BookStore.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/appsettings.Development.json
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/appsettings.json
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.staticwebassets.runtime.json
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/app.db
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.deps.json
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.runtimeconfig.json
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/BookStore.pdb
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Azure.Core.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Azure.Identity.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Humanizer.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Common.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.CodeDom.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/af/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ar/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/az/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/bg/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/da/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/el/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fa/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/he/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/hr/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/hu/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/hy/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/id/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/is/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ku/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/lv/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/mt/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/nb/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/nl/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ro/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sk/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sl/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sr/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/sv/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/uk/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/vi/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.csproj.AssemblyReference.cache
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.AssemblyInfoInputs.cache
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.AssemblyInfo.cs
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.csproj.CoreCompileInputs.cache
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.MvcApplicationPartsAssemblyInfo.cs
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.RazorAssemblyInfo.cache
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.RazorAssemblyInfo.cs
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.build.BookStore.props
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookStore.props
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookStore.props
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets.build.json
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/staticwebassets.development.json
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/Views/Shared/_LayoutAdmin.cshtml.rz.scp.css
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/bundle/BookStore.styles.css
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/scopedcss/projectbundle/BookStore.bundle.scp.css
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.csproj.CopyComplete
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/refint/BookStore.dll
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.pdb
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/BookStore.genruntimeconfig.cache
+/Users/buituanlinh/Documents/Zalo Received Files/1670-GCH1103-VuTanDung/obj/Debug/net7.0/ref/BookStore.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/appsettings.Development.json
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/appsettings.json
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/app.db
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/BookStore.staticwebassets.runtime.json
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/BookStore
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/BookStore.deps.json
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/BookStore.runtimeconfig.json
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/BookStore.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/BookStore.pdb
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Azure.Core.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Azure.Identity.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Humanizer.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/NuGet.Common.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.CodeDom.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/af/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ar/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/az/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/bg/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/cs/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/da/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/de/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/el/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/es/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fa/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fr/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/he/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/hr/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/hu/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/hy/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/id/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/is/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/it/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ja/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ku/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/lv/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/mt/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/nb/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/nl/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pl/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pt/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ro/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ru/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/sk/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/sl/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/sr/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/sv/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/tr/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/uk/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/vi/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.csproj.AssemblyReference.cache
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.AssemblyInfoInputs.cache
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.AssemblyInfo.cs
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.csproj.CoreCompileInputs.cache
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.MvcApplicationPartsAssemblyInfo.cs
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.RazorAssemblyInfo.cache
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.RazorAssemblyInfo.cs
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/staticwebassets/msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/staticwebassets/msbuild.build.BookStore.props
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookStore.props
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookStore.props
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/staticwebassets.build.json
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/staticwebassets.development.json
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/scopedcss/Views/Shared/_LayoutAdmin.cshtml.rz.scp.css
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/scopedcss/bundle/BookStore.styles.css
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/scopedcss/projectbundle/BookStore.bundle.scp.css
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.csproj.CopyComplete
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/refint/BookStore.dll
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.pdb
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/BookStore.genruntimeconfig.cache
+/Users/buituanlinh/Documents/1670/1670-GCH1107-BuiTuanLinh/obj/Debug/net7.0/ref/BookStore.dll

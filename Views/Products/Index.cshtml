@@ -1,0 +1,72 @@
+@model IEnumerable<BookStore.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_LayoutAdmin";
+}
+
+<h1>PRODUCT MANAGEMENT</h1>
+<a asp-action="Create" class="btn btn-primary"><i class="fa-solid fa-book"></i> Add Book</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            @* <th> *@
+            @*     @Html.DisplayNameFor(model => model.Description) *@
+            @* </th> *@
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Language)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <div style="white-space: pre-line;">@Html.DisplayFor(modelItem => item.Title)</div>
+                </td>
+                @* <td> *@
+                @*     <div style="white-space: pre-line;">@Html.DisplayFor(modelItem => item.Description)</div> *@
+                @* </td> *@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    <img src="@item.ImageUrl" alt="Product Image" style="max-width: 100px; max-height: 100px;" />
+                  
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Language)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.Name)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary btn-lg"><i class="fa-solid fa-pen-to-square"></i></a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-lg"><i class="fa-solid fa-delete-left"></i></a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-success btn-lg"><i class="fa-solid fa-circle-info"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
